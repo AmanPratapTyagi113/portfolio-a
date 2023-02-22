@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover":"/portfolio/1/one.png",
+            "title":"Static Website with multiple minor JS Projects",
+            "description":"HTML, CSS, JavaScript, Bootstrap",
+            "url":"https://web-to-learn.netlify.app/"
+        },
+        {
+            "cover":"/portfolio/1/two.png",
+            "title":"Food Order",
+            "description":"Html,JavaScript, Nodejs, MySQL, Expressjs",
+            "url":"https://github.com/AmanPratapTyagi113/E-Commerce"
+        },
+        {
+            "cover":"/portfolio/1/three.png",
+            "title":"TODO WebApp with Database",
+            "description":"React, JSX, Tailwind, FireBase",
+            "url":"https://fullstack-react-todo-app.netlify.app/"
+        },
+        {
+            "cover":"/portfolio/1/fourth.png",
+            "title":"Text Editor",
+            "description":"Python, tkinter",
+            "url":"https://github.com/AmanPratapTyagi113/notepad"
+        }
+    ]
+}
