@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-a/static/css/main.16c12009.css",
+    "main.js": "/portfolio-a/static/js/main.aaaf3c4c.js",
+    "static/media/logo-aa.png": "/portfolio-a/static/media/logo-aa.f4513155df3bf1d1ce0d.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-a/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/portfolio-a/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-a/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio-a/index.html",
+    "main.16c12009.css.map": "/portfolio-a/static/css/main.16c12009.css.map",
+    "main.aaaf3c4c.js.map": "/portfolio-a/static/js/main.aaaf3c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c12009.css",
+    "static/js/main.aaaf3c4c.js"
+  ]
+}
